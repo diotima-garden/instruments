@@ -1,0 +1,4 @@
+*.preprocessed.md
+*.compiled.md
+*.md.feedback.jsonl
+*.apkg
